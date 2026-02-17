@@ -292,7 +292,11 @@ In your Docker + Nginx setup:
 Final Clarity
 
 HTTP = Application layer
+
 TCP = Reliable transport
+
 UDP = Fast but unreliable
+
 QUIC = Smart protocol over UDP
+
 Nginx = Implements HTTP versions on top of transport
