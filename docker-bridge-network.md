@@ -145,7 +145,7 @@ This is practical implementation of NAT concept.
 
 When Problems Can Happen
 
-    - Understanding this helps when:
+    Understanding this helps when:
 
     - Containers cannot talk to each other
 
